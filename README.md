@@ -36,14 +36,12 @@ Open to software engineering, data engineering, and applied AI internships or st
 
 - **Systems and databases:** C, SQL, PostgreSQL extensions, indexing, data representation
 - **Algorithms and experimentation:** local search, VND, benchmarking, statistical evaluation
-- **Data and ML:** Python, R, applied machine learning, bioinformatics workflows
+- **Data and ML:** Python, R, applied machine learning, bioinformatics workflows, scikit-learn, pandas, NumPy, Matplotlib
 - **Engineering workflow:** Docker, Linux, Git, Java, reproducible tooling
 
-## Engineering approach
-
-- Make design and trade-offs explicit
-- Measure performance before optimizing
-- Keep builds and experiments reproducible
-- Preserve authorship and project context
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmanTektas&hide_border=true&theme=default" />
+</p>
