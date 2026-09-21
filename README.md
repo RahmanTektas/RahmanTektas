@@ -47,14 +47,3 @@ Open to software engineering, data engineering, and applied AI internships or st
 - Preserve authorship and project context
 
 ---
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RahmanTektas&show_icons=true&count_private=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanTektas&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmanTektas&hide_border=true&theme=default" />
-</p>
