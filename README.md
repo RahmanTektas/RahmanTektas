@@ -34,7 +34,7 @@ Collaborative Python chess application supporting human play, Minimax-based oppo
 ## Technical stack
 
 **Languages:** Python, C, Java, SQL, R  
-**Data / ML:** NumPy, pandas, scikit-learn, Jupyter  
-**Systems / tools:** PostgreSQL, Docker, Linux, Git
+**Systems / tools:** PostgreSQL, Docker, Linux, Git  
+**Current focus:** database indexing, combinatorial optimization, reinforcement learning, and reproducible experiments
 
 Currently looking for software engineering, data engineering, backend/database, and applied AI/ML internship or student opportunities.
