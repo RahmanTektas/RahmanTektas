@@ -26,6 +26,16 @@ Implementation and experimental comparison of local-search methods for the Linea
 
 **C · R · Combinatorial Optimization · Benchmarking**
 
+### [Cooperative-Agent Game Theory Reproduction](https://github.com/RahmanTektas/ld-cgt-exam-project)
+Experimental Python implementation of a cooperative-agent model for repeated bimatrix games.
+
+- particle-based opponent modelling
+- Nash-equilibrium computation with Lemke–Howson
+- repeated-game simulation and evaluation
+- reproducible tests and experiment scripts
+
+**Python · Game Theory · Nash Equilibria · Simulation**
+
 ### [Chess AI — team project](https://github.com/Md031/Echec-et-Mat-G1B)
 Collaborative Python chess application supporting human play, Minimax-based opponents, and a neural-network mode. My contributions are preserved in the repository history.
 
